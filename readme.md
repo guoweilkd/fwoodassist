@@ -1,9 +1,12 @@
 <div align="center">
   <h1><img src="./asset/img/fwood-icon.png" alt="四木调试助手" width="48" align="absmiddle" /> 四木调试助手</h1>
   <h3>—— 嵌入式工程师的随身调试工作台 ——</h3>
+  <p><strong>中文</strong> | <a href="./README_EN.md">English</a></p>
 </div>
 
-运行于 **Android** 的嵌入式调试工具。支持**串口**、蓝牙、网络、红外调试、**数据转发**、手机传感器读取、文件互传、协议交互。`一台手机覆盖现场调试全流程`。
+运行于 **Android** 的嵌入式调试工具。`一台手机覆盖现场调试全流程`。
+
+支持**串口**、蓝牙、网络、红外调试、**数据转发**、手机传感器读取、文件互传、协议交互。
 
 ## 获取 App
 
@@ -59,6 +62,12 @@
 - 文件互传：支持 https 文件互传，简化 PC 与 app 的文件传输
 - 红外控制：支持发送自定义红外帧
 
+### 7. 其他
+
+- 界面语言：支持中文、英语
+- 主题：支持亮色、暗色
+- 字符编码集：支持 UTF-8、GB2312、ASCII
+
 ## 界面
 
 | 主页 | 转发通道 | 网络调试 |
@@ -77,7 +86,7 @@
 | :-- | :-- |
 | 微信 | `simucoreTech` |
 | QQ 交流群 | `1125592363` |
-| Gitee | <https://gitee.com/fwoodtech/fwoodassist> |
+| 官网 | <https://theboynoname.cn> |
 
 <table>
   <tr>
