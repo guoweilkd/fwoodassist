@@ -72,9 +72,9 @@
 
 | 主页 | 转发通道 | 网络调试 |
 | :--: | :--: | :--: |
-| ![主页](./asset/img/screenshot/home.jpg) | ![转发通道](./asset/img/screenshot/转发通道.jpg) | ![网络调试](./asset/img/screenshot/网络调试.jpg) |
+| <img src="./asset/img/screenshot/home.jpg" alt="主页" width="260" /> | <img src="./asset/img/screenshot/转发通道.jpg" alt="转发通道" width="260" /> | <img src="./asset/img/screenshot/网络调试.jpg" alt="网络调试" width="260" /> |
 | 蓝牙主页 | 手机传感器 | 输入输出控制 |
-| ![蓝牙主页](./asset/img/screenshot/ble主页.jpg) | ![手机传感器](./asset/img/screenshot/手机传感器总.jpg) | ![输入输出控制](./asset/img/screenshot/输入输出控制转.jpg) |
+| <img src="./asset/img/screenshot/ble主页.jpg" alt="蓝牙主页" width="260" /> | <img src="./asset/img/screenshot/手机传感器总.jpg" alt="手机传感器" width="260" /> | <img src="./asset/img/screenshot/输入输出控制转.jpg" alt="输入输出控制" width="260" /> |
 
 ## 协议文档
 

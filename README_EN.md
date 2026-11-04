@@ -72,9 +72,9 @@ It supports **serial port**, Bluetooth, network, IR debugging, **data forwarding
 
 | Home | Forwarding Channel | Network Debug |
 | :--: | :--: | :--: |
-| ![Home](./asset/img/screenshot/home.jpg) | ![Forwarding channel](./asset/img/screenshot/转发通道.jpg) | ![Network debug](./asset/img/screenshot/网络调试.jpg) |
+| <img src="./asset/img/screenshot/home.jpg" alt="Home" width="260" /> | <img src="./asset/img/screenshot/转发通道.jpg" alt="Forwarding channel" width="260" /> | <img src="./asset/img/screenshot/网络调试.jpg" alt="Network debug" width="260" /> |
 | BLE Home | Phone Sensors | I/O Control |
-| ![BLE home](./asset/img/screenshot/ble主页.jpg) | ![Phone sensors](./asset/img/screenshot/手机传感器总.jpg) | ![I/O control](./asset/img/screenshot/输入输出控制转.jpg) |
+| <img src="./asset/img/screenshot/ble主页.jpg" alt="BLE home" width="260" /> | <img src="./asset/img/screenshot/手机传感器总.jpg" alt="Phone sensors" width="260" /> | <img src="./asset/img/screenshot/输入输出控制转.jpg" alt="I/O control" width="260" /> |
 
 ## Protocol Document
 
