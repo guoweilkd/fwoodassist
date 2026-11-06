@@ -10,7 +10,7 @@ It supports **serial port**, Bluetooth, network, IR debugging, **data forwarding
 
 ## Get the App
 
-- Download from the official site: <https://theboynoname.cn>
+- Download from the official site: <https://www.theboynoname.cn>
 
 ## Features
 
