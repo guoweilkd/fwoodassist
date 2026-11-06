@@ -86,7 +86,7 @@
 | :-- | :-- |
 | 微信 | `simucoreTech` |
 | QQ 交流群 | `1125592363` |
-| 官网 | <https://theboynoname.cn> |
+| 官网 | <https://www.theboynoname.cn> |
 
 <table>
   <tr>

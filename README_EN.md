@@ -86,7 +86,7 @@ It supports **serial port**, Bluetooth, network, IR debugging, **data forwarding
 | :-- | :-- |
 | WeChat | `simucoreTech` |
 | QQ Group | `1125592363` |
-| Website | <https://theboynoname.cn> |
+| Website | <https://www.theboynoname.cn> |
 
 <table>
   <tr>
