@@ -10,7 +10,7 @@
 
 ## 获取 App
 
-- 官网获取：<https://theboynoname.cn>
+- 官网获取：<https://www.theboynoname.cn>
 
 ## 功能
 
